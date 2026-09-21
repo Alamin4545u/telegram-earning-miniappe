@@ -1,6 +1,0 @@
-{
-  "name": "TeleVault Mini App & Remote Admin",
-  "description": "Production user-facing Telegram Mini App with internal ledger wallet, P2P transfers, earning tasks, mini-games, and daily rewards.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
